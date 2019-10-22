@@ -25,7 +25,7 @@ SECRET_KEY = 'b29@q65e3s9x(-*dl%=)$2pki$o+d#g$*0v9+o0$b_xb5l-8j%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [senatorpi.pythonanywhere.com]
 
 
 # Application definition
